@@ -47,10 +47,10 @@ dev = [
 ayatulkursi = "ayatulkursi.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/ayatulkursi"
-Documentation = "https://github.com/yourusername/ayatulkursi#readme"
-Repository = "https://github.com/yourusername/ayatulkursi.git"
-Issues = "https://github.com/yourusername/ayatulkursi/issues"
+Homepage = "https://github.com/nawaz0x1/ayatulkursi"
+Documentation = "https://github.com/nawaz0x1/ayatulkursi#readme"
+Repository = "https://github.com/nawaz0x1/ayatulkursi.git"
+Issues = "https://github.com/nawaz0x1/ayatulkursi/issues"
 
 [tool.setuptools]
 packages = ["ayatulkursi"]

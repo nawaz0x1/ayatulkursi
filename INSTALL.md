@@ -261,7 +261,7 @@ ayatulkursi --help
 ayatulkursi --debug
 
 # Report issues
-# Visit: https://github.com/yourusername/ayatulkursi/issues
+# Visit: https://github.com/nawaz0x1/ayatulkursi/issues
 ```
 
 ## Environment Setup for Development
