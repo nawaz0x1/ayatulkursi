@@ -5,7 +5,7 @@ continuously in the background with various playback modes.
 """
 
 __version__ = "1.0.1"
-__author__ = "Your Name"
+__author__ = "nawaz0x1"
 __description__ = "Production-ready Ayatul Kursi background audio player CLI"
 
 from .player import AyatulKursiPlayer

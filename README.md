@@ -39,7 +39,7 @@ pip install ayatulkursi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ayatulkursi.git
+git clone https://github.com/nawaz0x1/ayatulkursi.git
 cd ayatulkursi
 ```
 
@@ -353,7 +353,7 @@ ayatulkursi/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ayatulkursi.git
+git clone https://github.com/nawaz0x1/ayatulkursi.git
 cd ayatulkursi
 ```
 
