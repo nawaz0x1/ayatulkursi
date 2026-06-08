@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ayatulkursi"
-version = "1.0.1"
+version = "1.0.2"
 description = "Production-ready Python CLI application for playing Ayatul Kursi audio in the background"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "nawaz0x1", email = "nawaz0x1@example.com"}
 ]
 keywords = ["ayatul-kursi", "audio", "player", "cli", "background"]
 classifiers = [
